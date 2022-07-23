@@ -1,6 +1,6 @@
 # origins-accessories
 ## About
-This is a mod for 1.17.1, 1.18.2, and 1.19 which makes the origins mod easier to play by adding new high-end items that help address some of the disadvantages of specific origins.
+This is a Minecraft mod for 1.17.1, 1.18.2, and 1.19 which makes the origins mod easier to play by adding new high-end items that help address some of the disadvantages of specific origins.
 
 ## Crafting Recipies
 ## Credits
